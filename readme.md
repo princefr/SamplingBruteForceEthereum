@@ -1,4 +1,4 @@
-# Ethereum Mnemonic Brute Forcer
+# Sampling  Brute Force Ethereum Mnemonics
 
 ## Description
 
